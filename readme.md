@@ -6,6 +6,8 @@ Intelligent Fan Control for the NEVERMORE and (Voron) Exhaust fan!
 
 **Filter Life monitoring:** The code automatically counts the time the fans where on and on wich setting (low or high), it counts half when the fan is on low.
 
+Run ```FILTERLIFE``` from the console for info about filter life left.
+
 
 
 
