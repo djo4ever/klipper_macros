@@ -8,7 +8,4 @@ Intelligent Fan Control for the NEVERMORE and (Voron) Exhaust fan!
 
 Run ```FILTERLIFE``` from the console for info about filter life left.
 
-
-
-
-
+![2024-03-02 21_05_34-Voron 2 4r2 _ Dashboard](https://github.com/djo4ever/klipper_macros/assets/20004862/31b1bed3-741d-4d81-a3ca-d3ef5d39c403)
